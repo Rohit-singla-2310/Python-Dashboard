@@ -4,8 +4,8 @@ import streamlit as st
 import requests
 from streamlit_lottie import st_lottie
 
-# Importing the dataset from disk
-data = pd.read_csv(r"C:\Users\rohit singla\Desktop\CSE\5th sem\Data Science\Lab\Data Sets\eCommerce.csv")
+# Importing the dataset
+data = pd.read_csv(r"")
 
 # https://www.webfx.com/tools/emoji-cheat-sheet/
 # These are the configurations of the page
