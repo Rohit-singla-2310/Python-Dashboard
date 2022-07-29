@@ -16,3 +16,5 @@ Now in code, Set the correct location of the dataset
 1. In PyCharm open the terminal
 2. Set the path of the Dashboard.py in terminal
 3. Right streamlit run Dashboard.py
+
+Click the URL poped into the terminal you will see the output on your browser
